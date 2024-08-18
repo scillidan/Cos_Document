@@ -1,0 +1,139 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   crs:PresetType="Normal"
+   crs:Cluster=""
+   crs:UUID="04D6AC049A942E7E97A77E4370B88DAE"
+   crs:SupportsAmount="False"
+   crs:SupportsColor="True"
+   crs:SupportsMonochrome="True"
+   crs:SupportsHighDynamicRange="True"
+   crs:SupportsNormalDynamicRange="True"
+   crs:SupportsSceneReferred="True"
+   crs:SupportsOutputReferred="True"
+   crs:CameraModelRestriction=""
+   crs:Copyright=""
+   crs:ContactInfo=""
+   crs:Version="11.1"
+   crs:ProcessVersion="6.7"
+   crs:WhiteBalance="As Shot"
+   crs:Sharpness="70"
+   crs:LuminanceSmoothing="0"
+   crs:ColorNoiseReduction="25"
+   crs:ShadowTint="0"
+   crs:RedHue="0"
+   crs:RedSaturation="0"
+   crs:GreenHue="0"
+   crs:GreenSaturation="0"
+   crs:BlueHue="0"
+   crs:BlueSaturation="0"
+   crs:GrayMixerRed="-10"
+   crs:GrayMixerOrange="-6"
+   crs:GrayMixerYellow="-15"
+   crs:GrayMixerGreen="-20"
+   crs:GrayMixerAqua="-18"
+   crs:GrayMixerBlue="+10"
+   crs:GrayMixerPurple="+20"
+   crs:GrayMixerMagenta="+15"
+   crs:SplitToningShadowHue="18"
+   crs:SplitToningShadowSaturation="4"
+   crs:SplitToningHighlightHue="203"
+   crs:SplitToningHighlightSaturation="21"
+   crs:SplitToningBalance="0"
+   crs:ParametricShadows="-30"
+   crs:ParametricDarks="-15"
+   crs:ParametricLights="0"
+   crs:ParametricHighlights="0"
+   crs:ParametricShadowSplit="25"
+   crs:ParametricMidtoneSplit="50"
+   crs:ParametricHighlightSplit="75"
+   crs:SharpenRadius="+1.5"
+   crs:SharpenDetail="10"
+   crs:SharpenEdgeMasking="30"
+   crs:PostCropVignetteAmount="0"
+   crs:GrainAmount="9"
+   crs:GrainSize="20"
+   crs:GrainFrequency="50"
+   crs:ColorNoiseReductionDetail="50"
+   crs:ColorNoiseReductionSmoothness="50"
+   crs:Exposure2012="+0.12"
+   crs:Contrast2012="+64"
+   crs:Highlights2012="-3"
+   crs:Shadows2012="+100"
+   crs:Whites2012="-50"
+   crs:Blacks2012="+25"
+   crs:Clarity2012="0"
+   crs:ConvertToGrayscale="True"
+   crs:OverrideLookVignette="False"
+   crs:ToneCurveName2012="Custom"
+   crs:CameraProfile="Adobe Standard"
+   crs:HasSettings="True">
+   <crs:Name>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Feeling Blue - PresetLove</rdf:li>
+    </rdf:Alt>
+   </crs:Name>
+   <crs:ShortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:ShortName>
+   <crs:SortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:SortName>
+   <crs:Group>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"># PRESETLOVE Presets</rdf:li>
+    </rdf:Alt>
+   </crs:Group>
+   <crs:Description>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:Description>
+   <crs:ToneCurvePV2012>
+    <rdf:Seq>
+     <rdf:li>0, 67</rdf:li>
+     <rdf:li>17, 67</rdf:li>
+     <rdf:li>34, 68</rdf:li>
+     <rdf:li>51, 71</rdf:li>
+     <rdf:li>68, 80</rdf:li>
+     <rdf:li>85, 94</rdf:li>
+     <rdf:li>102, 114</rdf:li>
+     <rdf:li>119, 137</rdf:li>
+     <rdf:li>136, 161</rdf:li>
+     <rdf:li>153, 184</rdf:li>
+     <rdf:li>170, 204</rdf:li>
+     <rdf:li>187, 219</rdf:li>
+     <rdf:li>204, 231</rdf:li>
+     <rdf:li>221, 239</rdf:li>
+     <rdf:li>238, 246</rdf:li>
+     <rdf:li>255, 252</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012>
+   <crs:ToneCurvePV2012Red>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Red>
+   <crs:ToneCurvePV2012Green>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Green>
+   <crs:ToneCurvePV2012Blue>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Blue>
+   <crs:Look
+    crs:Name=""/>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

@@ -15,7 +15,6 @@ year | name_en                                     | name
 2016 | Wang Mao                                    | 王毛
 2016 | Mr. Donkey                                  | 驴得水
 2016 | Judge Archer                                | 箭士柳白猿
-2015 | Mountains May Depart                        | 山河故人
 2015 | Mountain Cry                                | 喊山
 2014 | The Coffin in the Mountain                  | 殡棺
 2014 | Blind Massage                               | 推拿
@@ -59,6 +58,7 @@ year | name_en                                     | name
 1991 | A Brighter Summer Day                       | 牯嶺街少年殺人事件
 1990 | Ju Dou                                      | 菊豆
 1988 | Red Sorghum                                 | 红高粱
+1987 | The Old Well                                | 老井
 1987 | The Last Emperor                            | 末代皇帝
 1987 | Hibiscus Town                               | 芙蓉镇
 1985 | The Black Cannon Incident                   | 黑炮事件

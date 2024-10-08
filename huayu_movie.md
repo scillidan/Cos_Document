@@ -61,4 +61,3 @@ year | name_en                                     | name
 1987 | The Old Well                                | 老井
 1987 | The Last Emperor                            | 末代皇帝
 1987 | Hibiscus Town                               | 芙蓉镇
-1985 | The Black Cannon Incident                   | 黑炮事件
